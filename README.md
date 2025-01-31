@@ -1,13 +1,13 @@
 # codepath-prework
 An application showing a screen with a button and at least a couple of labels. The screen changes color every time you press the button
 
-# Prework - *Name of App Here*
+# Prework - *Kwik*
 
-Submitted by: **Your Name Here**
+Submitted by: **Sahid Sheriff**
 
-**Name of your app** is an app that... [TODO] 
+**Kwik** is an app that changes color of the screen when the button is clicked 
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
