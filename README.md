@@ -18,19 +18,36 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/75d7d9fb76404edc99db5f78687b5888">
+    </a>
+    <a href="https://www.loom.com/share/75d7d9fb76404edc99db5f78687b5888">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/75d7d9fb76404edc99db5f78687b5888-862786d754c1b0d5-full-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
+## Favorite Apps
+- Whatsapp
+- Facebook
+- Instagram
+
+## features
+- share screen feature on whatsapp
+- video and audio calls capabilities
+
+I will like to improve on the facebook dating by including audio and video calls when matched. Also, adding screen sharing to facebook and instagram.
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges encountered while building the app.
+ - Setting up the loom extension on chrome was a hassle
+ - identifying the sublet for the UIColor changes button was also dificult
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Sahid Sheriff]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
